@@ -7,10 +7,10 @@ Escalade is a game that will be played on an LED Matrix. In Escalade, you are a 
 ## Hardware
 ### Parts List
 The hardware that was used in this design is listed below.
-  ATMega1284p microcontroller
-  10-LED bar
-  Button
-  Thumbstick
-  LED Matrix
-  Speaker
-  Shift Register x4
+...ATMega1284p microcontroller
+...10-LED bar
+...Button
+...Thumbstick
+...LED Matrix
+...Speaker
+...Shift Register x4
