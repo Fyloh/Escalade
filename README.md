@@ -19,5 +19,5 @@ The hardware that was used in this design is listed below.
 A minor issue with my project is that the walls are randomly generated based on the number of positions the user moves the character. Therefore, a player can determine the amount of positions he needs to move, left or right, and he can win the game with ease by generating the easiest walls. Even though it is extremely difficult to figure out the positions to move in order to generate specific walls, it can be done. Therefore, I would need to have a variable that increments every millisecond until a start button is pressed. From there, I would seed the time with that incremented value. Though possible, it is nearly improbable for the user to press the start button every time within a millisecond range. However, both are possible, but the second solution is more secure.
 
 ## Sources
-Thumbstick ADC:
+Thumbstick ADC: <br/>
 http://maxembedded.com/2011/06/the-adc-of-the-avr/
