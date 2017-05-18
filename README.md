@@ -6,7 +6,6 @@ Escalade is a game that will be played on an LED Matrix. In Escalade, you are a 
 
 ## Hardware
 
-### Pinout
 ![pinout](https://cloud.githubusercontent.com/assets/22248908/26222003/41292542-3bcd-11e7-8926-0c94135c84a8.png)
 
 ### Parts List
