@@ -6,7 +6,8 @@ Escalade is a game that will be played on an LED Matrix. In Escalade, you are a 
 
 ## Hardware
 
-![Image](../Embedded-Systems-Project/img/Board.png?raw=true)
+![pinout](https://cloud.githubusercontent.com/assets/22248908/26222003/41292542-3bcd-11e7-8926-0c94135c84a8.png)
+
 ### Parts List
 The hardware that was used in this design is listed below.
 1. ATMega1284p microcontroller
